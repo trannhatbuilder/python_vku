@@ -1,1 +1,1 @@
-Excersice Python Chapter 2 Part 1
+Exercise Python Chapter 2 Part 1
